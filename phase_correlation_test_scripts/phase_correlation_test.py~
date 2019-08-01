@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+#coding:utf-8
+#说明：本脚本用来测试opencv中集成的phaseCorrelation算法
